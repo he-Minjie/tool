@@ -1,16 +1,15 @@
 
 ## 1. 下载和安装vscode
 ### 1.1 下载
-[vscode官网](https://code.visualstudio.com/) 
-![安装注意](images/安装注意.png) 
+[vscode官网](https://code.visualstudio.com/)   
+![安装注意](https://raw.githubusercontent.com/he-Minjie/myImages/myImages/images/%E5%AE%89%E8%A3%85%E6%B3%A8%E6%84%8F.png)  
 安装中文包：点击左侧工具栏的扩展(Ctrl+Shift+X),输入Chinese，点击Install安装  
 配置环境：快捷键[Ctrl+Shift+P]调出查找命令栏，输入language，找到Configure Display Language，点击，选择locale属性为“zh-CN”  
 重启vscode，安装成功，配置好啦。
 ### 1.2 国内下载vscode速度慢解决办法
 万物皆可镜像！！！
-在官网找到需要下载的文件，点击下载，有这么个地址，复制下来
-![vscode下载镜像](images/vscode下载镜像.png)
-将红框内的内容更换为“vscode.cdn.azur.cn”
+在官网找到需要下载的文件，点击下载，有这么个地址，复制下来  
+![vscode下载镜像](https://raw.githubusercontent.com/he-Minjie/myImages/myImages/images/vscode%E4%B8%8B%E8%BD%BD%E9%95%9C%E5%83%8F.png)  
 复制后粘贴到任意浏览器下载，这就是国内的镜像。
 麻麻再也不用担心我下载速度慢啦！  
 ### 1.3 安装Markdown增强插件
@@ -23,12 +22,12 @@
   可将MD格式的文件输出为pdf格式
 ### 1.4 那就立马开始写第一篇Markdown文档吧！
 为了集中管理Markdown文档，在固定的地方专门建一个文件夹。使用vscode打开这个文件夹，会在左侧的高航窗口看到以下显示：
-![图片3](images/打开文件夹.png)
+![打开文件夹](https://raw.githubusercontent.com/he-Minjie/myImages/myImages/images/%E6%89%93%E5%BC%80%E6%96%87%E4%BB%B6%E5%A4%B9.png)
 在这个目录下，可以新建文档，注意文档名一定要带 **.md**的后缀。  
 当输入 **.md** 的后缀时，新建的文件名前面多了一个蓝色向下的箭头logo，这代表它已经被vscode识别为markdown文件了。  
 现在，就可以开始写啦！  
 在开始之前，请点击右上角的这个图标：  
-![两栏图标](images/两栏图标.png)  
+![两栏图标](https://raw.githubusercontent.com/he-Minjie/myImages/myImages/images/%E4%B8%A4%E6%A0%8F%E5%9B%BE%E6%A0%87.png)  
 页面就会变成两栏分列的样子，右侧就是markdown文件被渲染为HTML的预览；  
 由于我们安装了Github的渲染风格，这里会安装Github的样式渲染markdown文件。
 ## 2. MarkDown基本语法
@@ -91,7 +90,7 @@ c=a+b;
 ### 2.9 图片
 用叹号！加方括号内写图片名和英文圆括号内写图片链接的形式
 MD文档本身不能存图片，图片链接可以使用本地地址，或者图床外链  
-![图2](images/cat.jpg)
+![cat](https://raw.githubusercontent.com/he-Minjie/myImages/myImages/images/cat.jpg)
 ### 2.10 表格
 用制表符生成第一行是所有的列，第二行是减号填充，第三行才是内容，在第二行的减号左侧加英文冒号是左对齐，右侧加是右对齐，两边都加是居中对齐   
 |列1        |列2        |列3         |
